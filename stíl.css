@@ -1,3 +1,15 @@
 body {
     background-image: url(math.jpg);
 }
+
+.kocka {
+    height: 50px;
+    width: 50px;
+    background-color: black;
+}
+
+.tegla {
+    height: 50px;
+    width: 100px;
+    background-color: black;
+}
