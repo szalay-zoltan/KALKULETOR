@@ -3,9 +3,12 @@ body {
     background-color: rgb(133, 163, 218);
 }
 
-.negyzet {
-    border-width: 50px;
+.square {
+    background-color: black;
+    width: 200px;
+    height: 200px;
     border-color: black;
+    ;
 }
 
 .tegla {
