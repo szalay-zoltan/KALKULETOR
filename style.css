@@ -1,0 +1,15 @@
+html,
+body {
+    background-color: rgb(133, 163, 218);
+}
+
+.negyzet {
+    border-width: 50px;
+    border-color: black;
+}
+
+.tegla {
+    height: 50px;
+    width: 100px;
+    background-color: black;
+}
