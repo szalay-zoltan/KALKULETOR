@@ -1,5 +1,7 @@
 body {
-    background-image: url(math.jpg);
+    background-image: url("math.jpg");
+    width: 100%;
+    background-repeat: repeat;
 }
 
 .negyzet {
