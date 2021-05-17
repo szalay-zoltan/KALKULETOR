@@ -4,35 +4,7 @@ body {
     background-color: rgb(133, 163, 218);
 }
 
-.square {
-    background-color: rgb(133, 163, 218)k;
-    width: 200px;
-    height: 200px;
-    border-color: black;
-    border-style: solid;
-    position: absolute;
-    top: 25%;
-    left: 50%;
-    margin-top: -100px;
-    margin-left: -100px;
-}
-
-.teglalap {
-    background-color: rgb(133, 163, 218)k;
-    width: 400px;
-    height: 200px;
-    border-color: black;
-    border-style: solid;
-    position: absolute;
-    top: 25%;
-    left: 43%;
-    margin-top: -100px;
-    margin-left: -100px;
-}
-
-.teg {
-    text-align: center;
-}
-
-
+.card img {
+    height: 300px;
+    width: 300px;
 }
